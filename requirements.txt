@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+langchain-aws
+yfinance
+boto3
+python-dotenv
+tiktoken
+beautifulsoup4 

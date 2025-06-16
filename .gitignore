@@ -1,0 +1,44 @@
+# --- Python ---
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Terraform ---
+# Local Terraform state, plugins, and lock files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*.backup
+
+# --- IDEs and general ---
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store 
